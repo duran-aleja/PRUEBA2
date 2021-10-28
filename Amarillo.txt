@@ -1,2 +1,6 @@
 Hola
+<<<<<<< HEAD
 El color amarillo tiene mucha vida
+=======
+Me recuerda al solecito
+>>>>>>> 11eda09d2c07dd59c22898fa67c06291e4e4ae86
